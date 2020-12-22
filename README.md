@@ -1,4 +1,4 @@
-# Assignment-07
+# Assignment-08
 #### Introduction/Summary:
 For this week's introduction to the high-fidelity prototype, I focused on tailoring the various webpages of myhealthfinder.gov in accordance with the usability testing, observations, and personas, and first impressions I’ve culminated over the last weeks of class. I believe that myhealthfinder.gov, a government-run website, has enormous potential to be valuable for Americans getting their basic health questions answered at their fingertips. With that being said, the existing site has a lot of interface issues, especially on the homepage. This prototype, which has newly improved features such as an accessible main menu, a favorite's option for health articles one might like, and a share/print option for vaccines and screenings they still need to complete, allow the user to make the most of the website and truly cater it to their own needs so that the information obtained is valuable to them in the long run.
 
